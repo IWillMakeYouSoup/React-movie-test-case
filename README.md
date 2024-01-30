@@ -1,7 +1,7 @@
 # etimocasefrontend
 
-###Setup
+##Setup
 CLone the repo and run **npm install**
 
-###Run
+##Run
 run **npm run dev**
